@@ -1,20 +1,5 @@
-# Data Analyst
-I am a data analyst certified by Aceporatech, skilled in SQL, Python, Excel, and Power BI/Tableau. I specialize in transforming complex datasets into actionable insights through data cleaning, statistical analysis, and visualization. With a detail-oriented approach and strong problem-solving skills, I aim to support data-driven decision-making and drive measurable business impact.
+### Hello There 👋😊
+My name is Aniekan Emmanuel Sunday, and i am a data analyst interested in turning raw data into business insight,
+using my technical Skill(SQL,EXCEL,POWER BI and PYTON) and soft Skills to communicate my insight to stake Holders and non-technical team
 
-### Education
-Industrial Safety (Higher National Diploma)
-
-Science Laboratory Technology (National Diploma)
-
-Data Analyst (Certificate)
-
-### Projects
-Healthcare Billing Service Provider
-
-Coffee Sales Analysis | Jan–Jun 2023
-
-Drug Abuse
-
-Fifa World Cup
-
-Murder Case
+I recently completed a project on drug ABuse, where i got the data set from kaggle
