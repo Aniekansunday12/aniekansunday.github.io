@@ -1,5 +1,5 @@
 ### Hello There 👋
-😊My name is Aniekan Emmanuel Sunday, and i am a data analyst interested in turning raw data into business insight.
+😊My name is Aniekan Emmanuel Sunday, and i am a data analyst interested in turning raw data into actionable business insight.
  
  💬Using my technical Skill (_SQL,Excel,Power BI and Python) and 
 
